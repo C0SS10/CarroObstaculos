@@ -4,14 +4,15 @@ import RPi.GPIO as GPIO
 #Si se va a utilizar pines
 GPIO.setmode(GPIO.BOARD)
 #Si se va a utilizar tablero numerico (Control remoto)
-GPIO.setmdode(GPIO.BCM)
+GPIO.setmode(GPIO.BCM)
 
 TRIG = 4 #Segun el lugar donde se ponga el pin
 ECHO = 20 #Segun el lugar donde se ponga el pin
-
+IFR = 9
 #Estas lineas se usan para cambiar de estado [prendido, apagado]
 GPIO.setup(TRIG,GPIO.OUT) #El primer parametro es el puerto 
 GPIO.setup(ECHO,GPIO.IN)
+GPIO.setup(IFR,GPIO.IN)
 
 #Calculando la distancia del obstaculo al carro
 def identificarDistancia():
@@ -33,3 +34,6 @@ def identificarDistancia():
     distance = (sig_time * 8.8888)/2
 
     return distance
+
+def hayHueco():
+    return not GPIO.input(ECHO)
