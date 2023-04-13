@@ -3,10 +3,12 @@ import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BOARD) # Using physical pin numbers
 # GPIO.setmode(GPIO.BCM) # Using BCM numbers
-
-PIN_TRIGGER = 4
-PIN_ECHO = 18
-PIN_INFR = 9
+                 #PINES FISICOS 
+PIN_TRIGGER = 17 #11
+PIN_ECHO = 27    #13
+PIN_INFR = 22    #15
+PIN_MOTOR_A = 20 #38
+PIN_MOTOR_B = 21 #40
 
 # Pin Configuration
 GPIO.setup(PIN_TRIGGER, GPIO.OUT)
