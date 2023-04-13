@@ -6,9 +6,9 @@ GPIO.setmode(GPIO.BOARD)
 #Si se va a utilizar tablero numerico (Control remoto)
 GPIO.setmode(GPIO.BCM)
 
-TRIG = 4 #Segun el lugar donde se ponga el pin
-ECHO = 20 #Segun el lugar donde se ponga el pin
-IFR = 9
+TRIG = 17 #Segun el lugar donde se ponga el pin
+ECHO = 27 #Segun el lugar donde se ponga el pin
+IFR = 22
 #Estas lineas se usan para cambiar de estado [prendido, apagado]
 GPIO.setup(TRIG,GPIO.OUT) #El primer parametro es el puerto 
 GPIO.setup(ECHO,GPIO.IN)

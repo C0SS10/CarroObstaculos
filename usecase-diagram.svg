@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-7 -15 1487 679' xmlns:xlink='http://www.w3.org/1999/xlink' width='1487.0px' font-size='13' font-family='Arial, LiberationSans' version='1.1' height='679.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='a2f0c7da-da89-4760-a07d-c69ab8da5df1' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ee6d8fa7-06af-45e5-a60e-858b309a0839' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ff38a049-5d63-44ff-b621-1bea79aba0e9' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1ad581a8-b9c5-4c2d-8c43-664ef2f92353' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='522335e0-00f1-43f8-81c7-2de85892b42c' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='7c2df9d1-cadf-4ac5-b9e6-d10ed71f9c3d' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='0d967f27-9026-444e-8beb-4a5d5a5e07cb' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='2304c3e6-dc93-4b08-86af-987be7913e05' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='96e8e143-b777-4815-ac78-d26142faf840' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='658647d3-48a5-473e-b424-811329d2a921' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='97d17ade-41dc-4e2a-a77b-240112e7e756' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='d3cbe11d-b78b-4bdc-b93b-92b8d925e87e' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='5892ca3a-d424-48f9-aad3-6d77a7ee46e3' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='db6c6e19-013e-4afe-93a8-989e7b894e46' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='079395c5-260c-4863-8348-8632029ab2cf' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='29252773-5a46-4330-895c-c60f2e59f4c3' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='7b07029b-8f89-4047-921c-ce6819f581e6' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='d4802096-b47f-4b31-8e44-d3fed0319605' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='d55f15ac-13c4-4e3f-8848-da2910239d97' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='a4becef4-bb6b-4455-b863-f6e276b06c9b' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='2c1cf242-6ff1-431e-99ec-0da4436bb57e' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='0a157147-f0f0-41c4-b279-408b0d7fce7f' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1ffe3041-0005-44cb-9094-314e9bebec0d' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='72b56111-7aee-4f00-9421-535bb1265d5c' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+  </defs>
+  <desc>UsecaseDiagram</desc>
+  <g transform='translate(64.0,243.0)' id='_UIbUEKDvEDuQzO_4yafraA'>
+    <circle r='6.5' cx='20.0' cy='8.5' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='15.0' x1='20.0' y2='45.5' x2='20.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='26.0' x1='6.0' y2='26.0' x2='34.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='9.2' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='30.799999999999997' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='20.0' y='78.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Usuario</text>
+  </g>
+  <g transform='translate(176.0,253.0)' id='_VzE4AKDvEDuQzO_4yafraA'>
+    <ellipse cx='65.0' cy='30.0' rx='65.0' ry='30.0' stroke-width='1.0' fill='url(#a2f0c7da-da89-4760-a07d-c69ab8da5df1)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,17.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Inicio del movimiento</text>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>del carro</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(360.0,248.0)' id='_f_uSMKDvEDuQzO_4yafraA'>
+    <ellipse cx='65.0' cy='35.0' rx='65.0' ry='35.0' stroke-width='1.0' fill='url(#ee6d8fa7-06af-45e5-a60e-858b309a0839)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,22.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>El carro detecta un</text>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>obstáculo</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(340.0,414.0)' id='_tmBIwKDvEDuQzO_4yafraA'>
+    <ellipse cx='85.0' cy='35.0' rx='85.0' ry='35.0' stroke-width='1.0' fill='url(#ff38a049-5d63-44ff-b621-1bea79aba0e9)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,22.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='85.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>No se logra identificar el tipo</text>
+        <text font-weight='bold' text-anchor='middle' x='85.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>de obstáculo</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(605.0,136.0)' id='_5OpYwKDvEDuQzO_4yafraA'>
+    <ellipse cx='70.0' cy='40.0' rx='70.0' ry='40.0' stroke-width='1.0' fill='url(#1ad581a8-b9c5-4c2d-8c43-664ef2f92353)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,20.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='70.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>El obstáculo es un</text>
+        <text font-weight='bold' text-anchor='middle' x='70.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>muro o un objeto</text>
+        <text font-weight='bold' text-anchor='middle' x='70.0' y='39.0' font-size='13' fill='rgb(3, 54, 86)'>grande</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(600.0,243.0)' id='_CKocUKDwEDuQzO_4yafraA'>
+    <ellipse cx='75.0' cy='40.0' rx='75.0' ry='40.0' stroke-width='1.0' fill='url(#522335e0-00f1-43f8-81c7-2de85892b42c)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,27.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='75.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>El obstáculo es un hueco</text>
+        <text font-weight='bold' text-anchor='middle' x='75.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>o agujero</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(610.0,345.0)' id='_LBhkgKDwEDuQzO_4yafraA'>
+    <ellipse cx='65.0' cy='40.0' rx='65.0' ry='40.0' stroke-width='1.0' fill='url(#7c2df9d1-cadf-4ac5-b9e6-d10ed71f9c3d)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,27.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>El obstáculo es una</text>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>escalera</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(866.0,448.0)' id='_RAdoIKDwEDuQzO_4yafraA'>
+    <ellipse cx='65.0' cy='40.0' rx='65.0' ry='40.0' stroke-width='1.0' fill='url(#0d967f27-9026-444e-8beb-4a5d5a5e07cb)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,27.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Alerta de obstáculo</text>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>detectado</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(866.0,243.0)' id='_b7a50KDwEDuQzO_4yafraA'>
+    <ellipse cx='65.0' cy='40.0' rx='65.0' ry='40.0' stroke-width='1.0' fill='url(#2304c3e6-dc93-4b08-86af-987be7913e05)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,19.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Se calcula la</text>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>distancia al obstáculo</text>
+      </g>
+      <line y1='34.0' x1='19.5' y2='34.0' x2='110.5' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+      <g transform='translate(0.0,0.0)'>
+        <text text-anchor='middle' x='65.0' y='55.0' font-size='13' fill='rgb(0, 0, 0)'>extension2</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(846.0,15.0)' id='_x7eQoKDwEDuQzO_4yafraA'>
+    <ellipse cx='85.0' cy='45.0' rx='85.0' ry='45.0' stroke-width='1.0' fill='url(#96e8e143-b777-4815-ac78-d26142faf840)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,32.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='85.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>No se logra calcular la</text>
+        <text font-weight='bold' text-anchor='middle' x='85.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>distancia hasta el obstáculo</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1225.0,25.0)' id='_5p578KDwEDuQzO_4yafraA'>
+    <ellipse cx='60.0' cy='35.0' rx='60.0' ry='35.0' stroke-width='1.0' fill='url(#658647d3-48a5-473e-b424-811329d2a921)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,22.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='60.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Alerta de obstáculo</text>
+        <text font-weight='bold' text-anchor='middle' x='60.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>extraño</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1083.0,246.0)' id='_BdBS8KDxEDuQzO_4yafraA'>
+    <ellipse cx='65.0' cy='37.5' rx='65.0' ry='37.5' stroke-width='1.0' fill='url(#97d17ade-41dc-4e2a-a77b-240112e7e756)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,24.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>El carro disminuye su</text>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>velocidad</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1083.0,453.0)' id='_I8nRAKDxEDuQzO_4yafraA'>
+    <ellipse cx='65.0' cy='35.0' rx='65.0' ry='35.0' stroke-width='1.0' fill='url(#d3cbe11d-b78b-4bdc-b93b-92b8d925e87e)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,22.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>El obstáculo esta</text>
+        <text font-weight='bold' text-anchor='middle' x='65.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>muy cerca al carro </text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1088.0,564.0)' id='_Xbq7kKDxEDuQzO_4yafraA'>
+    <ellipse cx='60.0' cy='35.0' rx='60.0' ry='35.0' stroke-width='1.0' fill='url(#5892ca3a-d424-48f9-aad3-6d77a7ee46e3)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,22.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='60.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Alerta de obstáculo</text>
+        <text font-weight='bold' text-anchor='middle' x='60.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>inmediato</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1330.0,453.0)' id='_cR98IKDxEDuQzO_4yafraA'>
+    <ellipse cx='60.0' cy='35.0' rx='60.0' ry='35.0' stroke-width='1.0' fill='url(#db6c6e19-013e-4afe-93a8-989e7b894e46)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,28.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='60.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>El carro se detiene</text>
+      </g>
+    </g>
+  </g>
+  <text text-anchor='middle' x='453.0' y='377.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <g transform='translate(23.0,298.0)' id='_2_JbUKDvEDuQzO_4yafraA'/>
+  <g transform='translate(150.0,298.0)' id='_3cmMUKDvEDuQzO_4yafraA'/>
+  <g transform='translate(353.0,298.0)' id='_PBhPMKDwEDuQzO_4yafraA'/>
+  <g transform='translate(332.0,245.0)' id='_PQEBgKDwEDuQzO_4yafraA'/>
+  <g transform='translate(376.0,349.0)' id='_PfNQwKDwEDuQzO_4yafraA'/>
+  <g transform='translate(595.0,298.0)' id='_lF2CAKDwEDuQzO_4yafraA'/>
+  <g transform='translate(569.0,245.0)' id='_lSL04KDwEDuQzO_4yafraA'/>
+  <g transform='translate(608.0,349.0)' id='_liMm0KDwEDuQzO_4yafraA'/>
+  <text text-anchor='middle' x='960.0' y='397.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <text text-anchor='middle' x='959.0' y='185.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <text text-anchor='middle' x='1150.0' y='71.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(836.0,298.0)' id='_HSvwMKDxEDuQzO_4yafraA'/>
+  <text text-anchor='middle' x='1070.0' y='399.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <text text-anchor='middle' x='1177.0' y='555.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(1101.0,503.0)' id='_epU1EKDxEDuQzO_4yafraA'/>
+  <g id='_1RV1sKDvEDuQzO_4yafraA'>
+    <line y1='414.0' x1='425.0' y2='318.0' x2='425.0' stroke-dasharray='7, 3' id='_1RauMKDvEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(425.0,318.0) rotate(-0.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_2-_DQKDvEDuQzO_4yafraA'>
+    <line y1='283.0' x1='104.0' y2='283.0' x2='176.0' id='_2_D7wqDvEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_3cfeoKDvEDuQzO_4yafraA'>
+    <line y1='283.0' x1='306.0' y2='283.0' x2='360.0' id='_3ch64KDvEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_PBW3IKDwEDuQzO_4yafraA'>
+    <line y1='283.0' x1='490.0' y2='283.0' x2='600.0' id='_PBbIkKDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_PP964KDwEDuQzO_4yafraA'>
+    <line y1='255.0' x1='490.0' y2='205.0' x2='605.0' id='_PP_wEqDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_PfGjEKDwEDuQzO_4yafraA'>
+    <line y1='309.0' x1='490.0' y2='358.0' x2='610.0' id='_PfIYQKDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_lFrp8KDwEDuQzO_4yafraA'>
+    <line y1='283.0' x1='750.0' y2='283.0' x2='866.0' id='_lFvUUqDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_lSFuQKDwEDuQzO_4yafraA'>
+    <line y1='205.0' x1='745.0' y2='255.0' x2='866.0' id='_lSHjcqDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_liHHQKDwEDuQzO_4yafraA'>
+    <line y1='359.0' x1='740.0' y2='308.0' x2='866.0' id='_liI8cqDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_wms2EKDwEDuQzO_4yafraA'>
+    <line y1='323.0' x1='931.0' y2='448.0' x2='931.0' stroke-dasharray='7, 3' id='_wmurQKDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(931.0,448.0) rotate(-180.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_4kXQMKDwEDuQzO_4yafraA'>
+    <line y1='105.0' x1='931.0' y2='243.0' x2='931.0' stroke-dasharray='7, 3' id='_4kZscqDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(931.0,243.0) rotate(-180.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_8dZXQKDwEDuQzO_4yafraA'>
+    <line y1='60.0' x1='1016.0' y2='60.0' x2='1225.0' stroke-dasharray='7, 3' id='_8dbzgKDwEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1225.0,60.0) rotate(90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_HSnNUKDxEDuQzO_4yafraA'>
+    <line y1='283.0' x1='996.0' y2='283.0' x2='1083.0' id='_HSq3sqDxEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_VSK4cKDxEDuQzO_4yafraA'>
+    <line y1='453.0' x1='1110.0' y2='323.0' x2='973.0' stroke-dasharray='7, 3' id='_VSPJ4qDxEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(973.0,323.0) rotate(-46.501792522359345)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_a8TwwKDxEDuQzO_4yafraA'>
+    <line y1='523.0' x1='1148.0' y2='564.0' x2='1148.0' stroke-dasharray='7, 3' id='_a8Vl8aDxEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1148.0,564.0) rotate(-180.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_epMSMKDxEDuQzO_4yafraA'>
+    <line y1='488.0' x1='1213.0' y2='488.0' x2='1330.0' id='_epQjoKDxEDuQzO_4yafraA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+</svg>
