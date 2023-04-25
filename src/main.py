@@ -1,29 +1,51 @@
-import sensor
-import RPi.GPIO as GPIO
 import time
+from GPIOUtils import (
+    disable_warnings,
+    gpio_mode,
+    clean_gpio
+)
+from sensors import (
+    InfraredSensor,
+    UltrasonicSensor,
+)
+from movement import MotorController
+
+# Set GPIO MODE
+gpio_mode(1) # Using BCM at the moment
+
+# Disable warnings
+disable_warnings()
+
+# Pin Configuration
+PIN_TRIGGER = 17    # 11
+PIN_ECHO = 27       # 13
+PIN_INFR = 22       # 15
+PIN_MOTOR_A = 20    # 38
+PIN_MOTOR_B = 21    # 40
+PIN_MOTOR_EN = 25
 
 def main() -> None:
+    sonic_sensor = UltrasonicSensor(PIN_ECHO, PIN_TRIGGER)
+    infr_sensor = InfraredSensor(PIN_INFR)
+    car_control = MotorController(PIN_MOTOR_A, PIN_MOTOR_B, PIN_MOTOR_EN)
+    
     try:
         while True:
-            distance = sensor.distance_to_obstacule()
-            print(f'La distancia entre el carro y el obstaculo en cm es: {distance}')
+            distance = sonic_sensor.calculate_distance()
+            print(f'El obstaculo está a una distancia de {distance}cm')
 
-            if sensor.pothole():
-                print("Definitivamente, Hay un hueco")
             time.sleep(1)
-            
-            if condition1: #Si hay un muro
-                Movimiento.move_forward()
-            elif condition2: #Si hay un hueco
-                Movimiento.move_backward()
-            elif condition3: #Si hay una escalera
-                Movimiento.turn_left()
-            else:
-                Movimiento.stop()
+            if distance < 20: car_control.move_backward()
+            elif infr_sensor.is_pothole():
+                print('Definitiva e Indudablemente Hay un hueco')
+                car_control.stop()
+            else: car_control.move_forward()
 
-    except KeyboardInterrupt:
-        print('Ha habido una interrupción')
-        GPIO.cleanup()
+    except KeyboardInterrupt: print('Ha habido una interrupción')
+    finally: clean_gpio()
 
 if __name__ == '__main__':
     main()
+
+# For thecontrol of the Motor
+# https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/ 
