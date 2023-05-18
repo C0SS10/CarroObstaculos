@@ -23,6 +23,8 @@ PIN_INFR = 22       # 15
 PIN_MOTOR_A = 20    # 38
 PIN_MOTOR_B = 21    # 40
 PIN_MOTOR_EN = 25
+PIN_LED1 = 19 
+PIN_LED2 = 26 
 
 def main() -> None:
     sonic_sensor = UltrasonicSensor(PIN_ECHO, PIN_TRIGGER)
