@@ -9,6 +9,7 @@ from sensors import (
     UltrasonicSensor,
 )
 from movement import MotorController
+from signals import Led
 
 # Set GPIO MODE
 gpio_mode(1) # Using BCM at the moment
@@ -22,14 +23,21 @@ PIN_ECHO = 27       # 13
 PIN_INFR = 22       # 15
 PIN_MOTOR_A = 20    # 38
 PIN_MOTOR_B = 21    # 40
+<<<<<<< HEAD
 PIN_MOTOR_EN = 25
 PIN_LED1 = 19 
 PIN_LED2 = 26 
+=======
+PIN_LED_INFR = 19   # 35
+PIN_LED_SONIC = 26  # 37
+>>>>>>> e711d9d (Led signals added)
 
 def main() -> None:
     sonic_sensor = UltrasonicSensor(PIN_ECHO, PIN_TRIGGER)
     infr_sensor = InfraredSensor(PIN_INFR)
-    car_control = MotorController(PIN_MOTOR_A, PIN_MOTOR_B, PIN_MOTOR_EN)
+    car_control = MotorController(PIN_MOTOR_A, PIN_MOTOR_B)
+    infr_led = Led(PIN_LED_INFR)
+    sonic_led = Led(PIN_LED_SONIC)
     
     try:
         while True:
@@ -37,11 +45,17 @@ def main() -> None:
             print(f'El obstaculo está a una distancia de {distance}cm')
 
             time.sleep(1)
-            if distance < 20: car_control.move_backward()
+            if distance < 20: 
+                car_control.stop()
+                sonic_led.turn_on()
             elif infr_sensor.is_pothole():
                 print('Definitiva e Indudablemente Hay un hueco')
                 car_control.stop()
-            else: car_control.move_forward()
+                infr_led.turn_on()
+            else:
+                car_control.move_forward()
+                infr_led.turn_off()
+                sonic_led.turn_off()
 
     except KeyboardInterrupt: print('Ha habido una interrupción')
     finally: clean_gpio()
