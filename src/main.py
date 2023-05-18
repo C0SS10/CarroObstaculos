@@ -23,14 +23,8 @@ PIN_ECHO = 27       # 13
 PIN_INFR = 22       # 15
 PIN_MOTOR_A = 20    # 38
 PIN_MOTOR_B = 21    # 40
-<<<<<<< HEAD
-PIN_MOTOR_EN = 25
-PIN_LED1 = 19 
-PIN_LED2 = 26 
-=======
 PIN_LED_INFR = 19   # 35
 PIN_LED_SONIC = 26  # 37
->>>>>>> e711d9d (Led signals added)
 
 def main() -> None:
     sonic_sensor = UltrasonicSensor(PIN_ECHO, PIN_TRIGGER)
