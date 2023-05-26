@@ -9,6 +9,12 @@ from GPIOUtils import (
 class Sensor(): pass
 
 class UltrasonicSensor(Sensor):
+    '''Class to control the UltraSensor Controller.
+
+    Args:
+        pin_echo (int): number of the pin that receives signals.
+        pin_trigger (int): number of the pin that sends signals.
+    '''
     def __init__(self, pin_echo:int, pin_trigger: int):
         self.echo = pin_echo
         self.trigger = pin_trigger
@@ -23,8 +29,8 @@ class UltrasonicSensor(Sensor):
     def calculate_distance(self) -> float:
         '''Calcules the distance to the obstacule.
 
-        Return:
-            distance (float): the distance to the obstacule
+        Returns:
+            distance (float): the distance in cm to the obstacule.
         '''
         start_time = 0
         stop_time = 0
@@ -44,6 +50,11 @@ class UltrasonicSensor(Sensor):
         return distance
 
 class InfraredSensor(Sensor):
+    '''Controller of the Infrared Sensor.
+
+    Args:
+        pin_infr (int): number of the pin that receives the infrared signal.
+    '''
     def __init__(self, pin_infr):
         self.infr = pin_infr
         pin_setup(self.infr, 0)

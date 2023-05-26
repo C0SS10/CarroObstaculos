@@ -4,9 +4,16 @@ from GPIOUtils import (
 )
 
 class MotorController:
+    '''Class that controls the motor's movement through two pins that are used in a L298N Module.
+
+    Args:
+        pin_a (int): a number of the bcm or board pin.
+        pin_b (int): a number of the bcm or board pin.
+    '''
     def __init__(self, pin_a:int, pin_b: int) -> None:
         self.pin_a = pin_a
         self.pin_b = pin_b
+        self.can_move = False
 
         # Set the Pins up
         pin_setup(self.pin_a, 1)
@@ -22,7 +29,7 @@ class MotorController:
         pin_output(self.pin_b, False)
 
     def move_backward(self):
-        '''Set the motor to move fowards.
+        '''Set the motor to move backwards.
         '''
         pin_output(self.pin_a, False)
         pin_output(self.pin_b, True)
