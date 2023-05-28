@@ -37,29 +37,26 @@ def main() -> None:
     try:
         while True:
             distance = sonic_sensor.calculate_distance()
-            print(f'El obstaculo está a una distancia de {distance}cm.')
+            print(f'Hay un obstaculo a una distancia de {distance} cm.')
 
             time.sleep(1)
-            if distance < 10:
+            if distance < 15:
                 car_control.can_move = False
                 if not sonic_led.is_on: sonic_led.turn_on()
-            else:
-                car_control.can_move = True
-                if sonic_led.is_on: sonic_led.turn_off()
-
-            if infr_sensor.is_pothole():
+            elif infr_sensor.is_pothole():
                 print('Definitiva e Indudablemente hay un agujero.')
                 car_control.can_move = False
                 if not infr_led.is_on: infr_led.turn_on()
             else:
                 car_control.can_move = True
+                if sonic_led.is_on: sonic_led.turn_off()
                 if infr_led.is_on: infr_led.turn_off()
 
             if car_control.can_move: car_control.move_forward()
             else: car_control.stop()
 
 
-    except KeyboardInterrupt: print('Ha habido una interrupción desde el teclado.')
+    except KeyboardInterrupt: print('Interrupción desde el teclado!')
     finally: clean_gpio()
 
 if __name__ == '__main__': # Only is executed if this specific file
